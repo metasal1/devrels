@@ -26,7 +26,7 @@ export const getServerSideProps: GetServerSideProps = async ({ req }) => {
 
   const meta = {
     ...defaultMetaProps,
-    title: `Settings | MongoDB Starter Kit`
+    title: `Settings | DevRel Database`
   };
 
   return {
